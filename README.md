@@ -12,7 +12,7 @@ A data project comparing customer reviews across three UK tutoring platforms —
 - Sentiment analysis using TextBlob and VADER
 - Keyword extraction to find common themes per company
 - A model to predict star rating from review text
-- A Tableau dashboard comparing all three platforms
+- A Powr BI dashboard comparing all three platforms
 
 ---
 
@@ -45,7 +45,7 @@ tutoring-platform-insights/
 | TextBlob | Sentiment analysis |
 | VADER | Sentiment analysis |
 | Scikit-learn | Star rating prediction model |
-| Tableau Public | Interactive dashboard |
+| Power BI | Interactive dashboard |
 
 ---
 
